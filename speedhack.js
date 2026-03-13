@@ -1,3 +1,5 @@
+//paste this first into dev console
+
 function pageScript() {
   let speedConfig = {
     speed: 1.0,
